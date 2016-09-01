@@ -1,6 +1,6 @@
 {
   "name": "jsDocGenFromJson",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "generates jsdoc from json",
   "main": "jsDocJson.js",
   "dependencies": {

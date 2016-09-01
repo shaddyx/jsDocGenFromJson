@@ -54,3 +54,4 @@ if (opts.options.typeDef){
 } else {
     console.log(stringifyTypes(res));
 }
+
