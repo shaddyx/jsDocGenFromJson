@@ -1,6 +1,6 @@
 {
   "name": "jsDocGenFromJson",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "description": "generates jsdoc from json",
   "main": "jsDocJson.js",
   "dependencies": {
@@ -18,5 +18,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shaddyx/jsDocGenFromJson/issues"
+  },
+  "bin": {
+    "jsDocGenFromJson": "./jsDocJson.js"
   }
 }
